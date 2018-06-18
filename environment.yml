@@ -1,0 +1,39 @@
+name: tf15
+channels:
+- anaconda
+- defaults
+dependencies:
+- certifi=2018.4.16=py36_0
+- libprotobuf=3.5.2=he0781b1_0
+- pip=10.0.1=py36_0
+- protobuf=3.5.2=py36h6538335_0
+- python=3.6.5=h0c2934d_0
+- setuptools=39.1.0=py36_0
+- six=1.11.0=py36h4db2310_1
+- vc=14=h0510ff6_3
+- vs2015_runtime=14.0.25123=3
+- wheel=0.31.1=py36_0
+- wincertstore=0.2=py36h7fe50ca_0
+- zlib=1.2.11=vc14h1cdd9ab_1
+- pip:
+  - absl-py==0.2.2
+  - bleach==1.5.0
+  - cycler==0.10.0
+  - cython==0.28.3
+  - django==2.0.6
+  - html5lib==0.9999999
+  - image==1.5.24
+  - kiwisolver==1.0.1
+  - markdown==2.6.11
+  - matplotlib==2.2.2
+  - numpy==1.14.5
+  - opencv-python==3.4.1.15
+  - pillow==5.1.0
+  - pyparsing==2.2.0
+  - python-dateutil==2.7.3
+  - pytz==2018.4
+  - tensorflow==1.5.0
+  - tensorflow-tensorboard==1.5.1
+  - werkzeug==0.14.1
+prefix: C:\Users\hsamuelson\AppData\Local\conda\conda\envs\tf15
+
