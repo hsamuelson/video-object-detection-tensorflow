@@ -6,24 +6,26 @@ Windows Support only
 Preferably anaconda python 3.6 version: https://www.anaconda.com/download/#windows
 This image is not optional, the library will not have the proper dependencies without it.
 <br>
-<br>
 Navigate to where ```environment.yml``` is located and run:
 ```
 conda env create -f environment.yml #Should supply proper python image
 ```
+After creating the environment, anaconda should automatically mount the new environment. From here follow the installation:
 ## Installation 
 ```
 pip install opencv-python
 pip install matplotlib
 pip install image
 pip install Cython
-
 #Warning this will change your tensorflow version
 pip install --ignore-installed --upgrade tensorflow==1.5
-#Or for GPU
+```
+Or for GPU:
+```
 pip install --ignore-installed --upgrade tensorflow-gpu
 ```
 ## Running
+Remember to navigate into the correct file system first. 
 ```
 python main.py
 ```
