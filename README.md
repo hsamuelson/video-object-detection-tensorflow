@@ -1,7 +1,10 @@
 # video-object-detection-tensorflow
 An Easy to install application of tensorflow object detection, using opencv. 
+Windows Support only 
 
 ## Anaconda Image
+Preferably anaconda python 3.6 version:https://www.anaconda.com/download/#windows
+
 ```
 conda env create -f environment.yml #Should supply proper python image
 ```
