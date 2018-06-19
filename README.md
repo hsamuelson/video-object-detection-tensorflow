@@ -1,4 +1,7 @@
 # video-object-detection-tensorflow
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiJ4fjCot_bAhXOHzQIHfnaCR8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.theta.co.nz%2Fnews-blogs%2Ftech-blog%2Fobject-detection-on-a-raspberry-pi%2F&psig=AOvVaw2D8HI2Jn6Lqc0R0DkedKgP&ust=1529481941637654" width=676 height=430>
+</p>
 An Easy to install application of tensorflow object detection, using opencv. This is an implementation of the tensorflow object_detection research. 
 Windows Support only 
 ### Requirements
