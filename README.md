@@ -12,6 +12,7 @@ This image is not optional, the library will not have the proper dependencies wi
 Navigate to where ```environment.yml``` is located and run:
 ```
 conda env create -f environment.yml #Should supply proper python image
+conda activate tf15 #To activate the enviorment
 ```
 After creating the environment, anaconda should automatically mount the new environment. From here follow the installation:
 ## Installation 
