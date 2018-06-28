@@ -25,8 +25,10 @@ pip install --ignore-installed --upgrade tensorflow==1.5
 ```
 Or for GPU:
 ```
-pip install --ignore-installed --upgrade tensorflow-gpu
+pip install --ignore-installed --upgrade tensorflow-gpu==1.5
+
 ```
+It is important to note that the gpu version requires additional requirements see: https://www.tensorflow.org/install/install_windows
 ## Running
 Remember to navigate into the correct file system first. 
 ```
