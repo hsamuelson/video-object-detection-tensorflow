@@ -7,7 +7,7 @@ Windows Support only
 A web camera, or a USB web camera.
 ## Anaconda Image
 Preferably anaconda python 3.6 version: https://www.anaconda.com/download/#windows
-This image is not optional, the library will not have the proper dependencies without it.
+This image is not optional, the library will not have the proper dependencies without it. To install a CPU version, one can skip these steps and simply run the setup.bat file if on windows. 
 <br>
 Navigate to where ```environment.yml``` is located and run:
 ```
